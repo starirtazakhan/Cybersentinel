@@ -185,7 +185,7 @@ Risk / Severity Assessment
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/CyberSentinel.git
+git clone https://github.com/starirtazakhan/Cybersentinel.git
 cd CyberSentinel
 
 2. Backend Setup
